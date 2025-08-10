@@ -39,7 +39,7 @@ AgroChain LATAM enables farmers and cooperatives to tokenize, co-own, and financ
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/agrochain-latam.git
+git clone https://github.com/crushrrr007/AgroChain-LATAM.git
 cd agrochain-latam
 
 # Install dependencies
